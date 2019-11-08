@@ -8,5 +8,12 @@ public class Main {
             System.out.println("Inna");
             i++;
         }
+
+        for (int i=0; i<100; i++){
+            System.out.println("Drukerman");
+            i++;
+        }
+
+
     }
 }
